@@ -52,3 +52,7 @@ Welcome to **Astro_Resources**! This repository serves as a curated list of esse
 15. **[Louisiana State University Physics and Astronomy Data](https://repository.lsu.edu/physics_astronomy_data/)**  
     A dataset repository from LSU, featuring resources for physics and astronomy research, with an emphasis on educational access.
 
+16. **[Allen Downey's Astronomical Data Repository](https://github.com/AllenDowney/AstronomicalData)**  
+    A collection of astronomical datasets curated by Allen Downey, providing valuable resources for research and analysis.
+
+
