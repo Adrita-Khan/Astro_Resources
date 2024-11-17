@@ -1,0 +1,8 @@
+- [NASA's HEASARC](https://heasarc.gsfc.nasa.gov/)
+- [AAS New Tool for Astronomy Software Users](https://aas.org/press/new-tool-launches-astronomy-software-users)
+- [HEASARC Astro-Update](https://heasarc.gsfc.nasa.gov/docs/heasarc/astro-update/)
+- [Aperture Photometry](https://aperturephotometry.org/)
+- [Open Astronomy](https://openastronomy.org/)
+- [List of Software for Astronomy Research and Education (Wikipedia)](https://en.wikipedia.org/wiki/List_of_software_for_astronomy_research_and_education)
+- [Software for Astrophysics - Cambridge University](https://www.astro.phy.cam.ac.uk/research/ResearchFacilities/software-for-astrophyiscs)
+- [Astronomical Software and Infrastructure](https://asaip.psu.edu/resources/visualization/)
