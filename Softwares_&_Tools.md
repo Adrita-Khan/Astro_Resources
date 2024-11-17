@@ -9,7 +9,7 @@
 
 
 
-Here are some essential software tools used in academic and professional astronomy and astrophysics research, along with their official websites:
+*Here are some essential software tools used in academic and professional astronomy and astrophysics research, along with their official websites:*
 
 - **Astropy**: A comprehensive Python library for astronomy, offering tools for data manipulation, unit conversions, and celestial coordinate transformations. [Astropy](https://www.astropy.org/)
 
@@ -65,4 +65,4 @@ Here are some essential software tools used in academic and professional astrono
 
 - **GitHub**: A platform for hosting and collaborating on Git repositories. [GitHub](https://github.com/)
 
-These tools are integral to various aspects of astronomical research, from data acquisition and processing to analysis and publication. 
+*These tools are integral to various aspects of astronomical research, from data acquisition and processing to analysis and publication.*
