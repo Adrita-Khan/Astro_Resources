@@ -7,7 +7,7 @@
 - [Software for Astrophysics - Cambridge University](https://www.astro.phy.cam.ac.uk/research/ResearchFacilities/software-for-astrophyiscs)
 - [Astronomical Software and Infrastructure](https://asaip.psu.edu/resources/visualization/)
 
-*Here are some essential software tools used in academic and professional astronomy and astrophysics research, along with their official websites:*
+***Here are some essential software tools used in academic and professional astronomy and astrophysics research, along with their official websites:***
 
 - **Astropy**: A comprehensive Python library for astronomy, offering tools for data manipulation, unit conversions, and celestial coordinate transformations. [Astropy](https://www.astropy.org/)
 - **TOPCAT**: An interactive graphical viewer and editor for tabular data, widely used for handling large astronomical catalogs. [TOPCAT](http://www.star.bris.ac.uk/~mbt/topcat/)
