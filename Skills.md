@@ -251,7 +251,8 @@
 15. **The European Southern Observatory (ESO)**  
     An intergovernmental astronomy organization operating advanced ground-based observatories.  
     [ESO](https://www.eso.org/)
-# Additional References
+
+# More References
 
 1. **Astrophysics Data System (ADS)**  
    A digital library portal for researchers in astronomy and physics, providing access to a vast collection of scientific papers and publications.  
