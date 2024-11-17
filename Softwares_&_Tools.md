@@ -6,3 +6,63 @@
 - [List of Software for Astronomy Research and Education (Wikipedia)](https://en.wikipedia.org/wiki/List_of_software_for_astronomy_research_and_education)
 - [Software for Astrophysics - Cambridge University](https://www.astro.phy.cam.ac.uk/research/ResearchFacilities/software-for-astrophyiscs)
 - [Astronomical Software and Infrastructure](https://asaip.psu.edu/resources/visualization/)
+
+
+
+Here are some essential software tools used in academic and professional astronomy and astrophysics research, along with their official websites:
+
+- **Astropy**: A comprehensive Python library for astronomy, offering tools for data manipulation, unit conversions, and celestial coordinate transformations. [Astropy](https://www.astropy.org/)
+
+- **TOPCAT**: An interactive graphical viewer and editor for tabular data, widely used for handling large astronomical catalogs. [TOPCAT](http://www.star.bris.ac.uk/~mbt/topcat/)
+
+- **DS9**: An astronomical imaging and data visualization application, supporting FITS images and various analysis functions. [DS9](https://sites.google.com/cfa.harvard.edu/saoimageds9)
+
+- **Aladin Sky Atlas**: An interactive sky atlas allowing visualization of digitized astronomical images and superimposition of entries from astronomical catalogs or databases. [Aladin Sky Atlas](https://aladin.u-strasbg.fr/)
+
+- **GADGET-2**: A code for cosmological N-body/SPH simulations, used for studying structure formation in the universe. [GADGET-2](https://wwwmpa.mpa-garching.mpg.de/gadget/)
+
+- **MESA (Modules for Experiments in Stellar Astrophysics)**: An open-source stellar evolution code for simulating the structure and evolution of stars. [MESA](http://mesa.sourceforge.net/)
+
+- **GalSim**: An open-source image simulation toolkit for generating realistic galaxy images, often used in weak lensing studies. [GalSim](https://github.com/GalSim-developers/GalSim)
+
+- **IRAF (Image Reduction and Analysis Facility)**: A suite of software for the reduction and analysis of astronomical data, particularly in optical and infrared wavelengths. [IRAF](https://iraf-community.github.io/)
+
+- **CIAO (Chandra Interactive Analysis of Observations)**: A software package developed by the Chandra X-ray Center for analyzing data from the Chandra X-ray Observatory. [CIAO](https://cxc.harvard.edu/ciao/)
+
+- **HEAsoft**: A collection of software tools for analyzing data from high-energy astrophysics missions, including X-ray and gamma-ray observations. [HEAsoft](https://heasarc.gsfc.nasa.gov/docs/software/heasoft/)
+
+- **CASA (Common Astronomy Software Applications)**: A package for radio astronomy data processing, supporting instruments like ALMA and the VLA. [CASA](https://casa.nrao.edu/)
+
+- **AstroML**: A Python module for machine learning and data mining, built on NumPy, SciPy, scikit-learn, and Matplotlib, tailored for astronomical data. [AstroML](http://www.astroml.org/)
+
+- **TensorFlow**: A deep learning framework utilized for various applications, including classification and regression tasks in astronomy. [TensorFlow](https://www.tensorflow.org/)
+
+- **PyTorch**: A deep learning framework used for building and training neural networks in astronomy research. [PyTorch](https://pytorch.org/)
+
+- **SPEX**: Software for X-ray spectral analysis, providing tools for modeling and interpreting spectra. [SPEX](https://www.sron.nl/astrophysics-spex)
+
+- **XSPEC**: A command-driven program for fitting models to astronomical spectra, widely used in high-energy astrophysics. [XSPEC](https://heasarc.gsfc.nasa.gov/xanadu/xspec/)
+
+- **Simbad**: A database providing information on astronomical objects, useful for cross-referencing and data retrieval. [Simbad](http://simbad.u-strasbg.fr/simbad/)
+
+- **VizieR**: A service offering access to a vast collection of astronomical catalogs and data tables. [VizieR](https://vizier.u-strasbg.fr/)
+
+- **SkyView**: A virtual observatory generating images of any part of the sky at wavelengths from radio to gamma-ray. [SkyView](https://skyview.gsfc.nasa.gov/)
+
+- **AIPS (Astronomical Image Processing System)**: A software package for processing and analyzing radio astronomical data. [AIPS](http://www.aips.nrao.edu/)
+
+- **DiFX (Distributed FX correlator)**: A software correlator used in Very Long Baseline Interferometry (VLBI) for processing radio interferometric data. [DiFX](https://www.atnf.csiro.au/vlbi/dokuwiki/doku.php/difx/start)
+
+- **SExtractor**: A tool for source extraction and photometry from astronomical images, generating catalogs of detected objects. [SExtractor](https://www.astromatic.net/software/sextractor/)
+
+- **Aperture Photometry Tool (APT)**: Software for performing aperture photometry on astronomical images, providing a graphical user interface for analysis. [Aperture Photometry Tool](https://aperturephotometry.org/)
+
+- **astroplan**: A Python package for observation planning, assisting astronomers in scheduling and coordinating observations. [astroplan](https://astroplan.readthedocs.io/)
+
+- **LaTeX**: A typesetting system commonly used for preparing scientific documents and publications in astronomy. [LaTeX](https://www.latex-project.org/)
+
+- **Git**: A version control system for tracking changes in source code during software development. [Git](https://git-scm.com/)
+
+- **GitHub**: A platform for hosting and collaborating on Git repositories. [GitHub](https://github.com/)
+
+These tools are integral to various aspects of astronomical research, from data acquisition and processing to analysis and publication. 
