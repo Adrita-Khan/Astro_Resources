@@ -67,3 +67,68 @@
 - **Quantum Computing**: Explore complex astrophysical simulations.
 - **Advanced Statistical Techniques**: Use Gaussian Processes for photometric redshift estimation.
 - **RFI Mitigation**: Implement radio frequency interference mitigation using machine learning.
+- 
+
+
+# References
+
+1. **Basics of Technical Writing for Astronomy Graduate Students**  
+   This guide provides insights into technical writing and referencing for astronomy students.  
+   [Link to PDF](https://cosmos2.phy.tufts.edu/~asajina/writing_guide.pdf)
+
+2. **Flagship 3: Astronomy Knowledge and Skills for Development**  
+   Discusses how astronomy contributes to development through skills transfer and problem-solving applications.  
+   [Link to Article](https://www.astro4dev.org/flagship-themes/flagship-on-knowledge-and-skills-for-development/)
+
+3. **Top 12 Astronomer Skills to Put on Your Resume**  
+   Outlines essential skills for astronomers, including programming languages and data analysis tools.  
+   [Link to Article](https://resumecat.com/career/astronomer/skills)
+
+4. **Guide to Astrophysical Software**  
+   Provides an overview of software tools commonly used in astrophysics research.  
+   [Link to Article](https://astrobites.org/guides/guide-to-astrophysical-software/)
+
+5. **Numerical Python in Astronomy and Astrophysics**  
+   A practical guide to using Python for problem-solving in astrophysics.  
+   [Link to Book](https://link.springer.com/book/10.1007/978-3-030-70347-9)
+
+6. **What Skills Do You Need For a Successful Astronomy Career?**  
+   Explores the necessary skills for a career in astronomy, including technical and analytical abilities.  
+   [Link to Article](https://news.fit.edu/academics-research/skills-successful-astronomy-career/)
+
+7. **How to Write and Develop Your Astronomy Research Paper**  
+   Offers guidance on planning and writing research papers in astronomy.  
+   [Link to Paper](https://arxiv.org/abs/2110.05503)
+
+8. **8.901 Lecture Notes - MIT**  
+   Comprehensive lecture notes covering various topics in astrophysics.  
+   [Link to PDF](https://www.mit.edu/~iancross/8901_2019A/astrophysics_lecture_notes_2019_Crossfield.pdf)
+
+9. **About a Career in Astronomy**  
+   Provides information on careers in astronomy, including required skills and education.  
+   [Link to Article](https://aas.org/careers/career-in-astronomy)
+
+10. **Astrophysicist Resume Example & Writing Guide**  
+    Offers examples and tips for crafting a resume tailored to astrophysics careers.  
+    [Link to Article](https://climbtheladder.com/astrophysicist-resume/)
+
+11. **Astropy**  
+    An overview of the Astropy project, a collection of software packages for astronomy.  
+    [Link to Article](https://en.wikipedia.org/wiki/Astropy)
+
+12. **Joss Bland-Hawthorn**  
+    Information about Joss Bland-Hawthorn, a notable figure in astronomy.  
+    [Link to Article](https://en.wikipedia.org/wiki/Joss_Bland-Hawthorn)
+
+13. **Annual Review of Astronomy and Astrophysics**  
+    Details about the Annual Review of Astronomy and Astrophysics journal.  
+    [Link to Article](https://en.wikipedia.org/wiki/Annual_Review_of_Astronomy_and_Astrophysics)
+
+14. **Cerro Murphy Observatory**  
+    Information on the Cerro Murphy Observatory and its contributions to science.  
+    [Link to Article](https://en.wikipedia.org/wiki/Cerro_Murphy_Observatory)
+
+15. **Astronomical Observations: A Guide for Allied Researchers**  
+    An introduction to professional astronomical observations for researchers in allied fields.  
+    [Link to Paper](https://arxiv.org/abs/1812.07963)
+
