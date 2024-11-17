@@ -81,7 +81,27 @@
 
 > *Note: WorldWide Telescope is also covered under Data Analysis and Visualization.*
 
----
+
+
+***Here are the relevant astronomy and astrophysics software tools with their respective links:***
+
+- [21cmFAST](https://coalab.space/abekta/soft/21cmfast)
+- [CARACal](https://coalab.space/abekta/soft/caracal)
+- [CASA (Common Astronomy Software Applications)](https://coalab.space/abekta/soft/casa)
+- [CIAO (Chandra Interactive Analysis of Observations)](https://coalab.space/abekta/soft/ciao)
+- [ClusterPyXT](https://coalab.space/abekta/soft/clusterpyxt)
+- [DP3](https://coalab.space/abekta/soft/dp3)
+- [Eidos](https://coalab.space/abekta/soft/eidos)
+- [EveryBeam](https://coalab.space/abekta/soft/everybeam)
+- [ExoStriker](https://coalab.space/abekta/soft/exostriker)
+- [LoSiTo](https://coalab.space/abekta/soft/losito)
+- [Unistellar](https://coalab.space/abekta/soft/unistellar)
+- [Wavelets](https://coalab.space/abekta/soft/wavelets)
+- [Xpipe](https://coalab.space/abekta/soft/xpipe)
+
+
+
+
 
 ## 10. References
 
